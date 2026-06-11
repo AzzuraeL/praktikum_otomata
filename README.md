@@ -1,4 +1,4 @@
-# Kumpulan Praktikum Teori Bahasa dan Automata
+# Praktikum Teori Bahasa dan Automata
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
